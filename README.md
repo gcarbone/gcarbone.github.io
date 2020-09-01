@@ -2,6 +2,7 @@
 _Links to various sources on myself and my career_
 
 -[My Resume on Google Docs](https://docs.google.com/document/d/1RxlNorxAlzMmgPPekcCG7aUc1W_1UeqJEZO5dU-Vah0) 
+
 -[LinkedIn Profile](https://www.linkedin.com/in/gcarbone/)
 
 
