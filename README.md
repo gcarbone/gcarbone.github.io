@@ -12,7 +12,9 @@ _Links to various sources on myself and my career_
 
 ## If you can't laugh at yourself...
 _Some of the funnier things I've seen about my chosen profession!_
+
 -[The 7 Red Lines Video](https://youtu.be/BKorP55Aqvg)
+
 -[Conference Call in Real Life](https://youtu.be/DYu_bGbZiiQ)
 
 <!---
