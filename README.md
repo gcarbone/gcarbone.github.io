@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Quick Links
+
+-[My Resume](https://docs.google.com/document/d/1RxlNorxAlzMmgPPekcCG7aUc1W_1UeqJEZO5dU-Vah0)
 
 You can use the [editor on GitHub](https://github.com/gcarbone/gcarbone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
