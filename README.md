@@ -1,16 +1,21 @@
 ## Personal Information
 _Links to various sources on myself and my career_
+
 *[My Resume on Google Docs](https://docs.google.com/document/d/1RxlNorxAlzMmgPPekcCG7aUc1W_1UeqJEZO5dU-Vah0) 
+
 *[LinkedIn Profile](https://www.linkedin.com/in/gcarbone/)
 
 
 ## Professional Links
+
 *[Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
 
 
 ## If you can't laugh at yourself...
 _Some of the funnier things I've seen about my chosen profession!_
+
 *[The 7 Red Lines Video](https://youtu.be/BKorP55Aqvg)
+
 *[Conference Call in Real Life](https://youtu.be/DYu_bGbZiiQ)
 
 <!---
